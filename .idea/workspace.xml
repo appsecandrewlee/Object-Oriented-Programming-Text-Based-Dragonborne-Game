@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d0837e8-0f9e-4b05-b5bb-f3423ef4abd6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Assignment 2 Design Rationale.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Assignment 2 Design Rationale.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Assignment1_Design_rationale.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Assignment1_Design_rationale.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Requirement2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Requirement2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment 2 Sequence Diagram (1st requirement).png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment 2 Sequence Diagram (1st requirement).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment2 Requirement 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment2 Requirement 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment2 Requirement 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment2 Requirement 3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment2 Requirement 4.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment2 Requirement 4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment2 requirement1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment2 requirement1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment2/DESIGN_RATIONALE_REQ_1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment2/DESIGN_RATIONALE_REQ_1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment2/REQ1_UML.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment2/REQ1_UML.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Assignment2/Sequence_REQ1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Assignment2/Sequence_REQ1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/AttackAction.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/AttackAction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/Requirement 4 Assignment 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/Requirement 4 Assignment 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/engine.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/engine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/game.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/game.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/requirement1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/requirement1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/requirement2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/requirement2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/requirement3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/requirement3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/requirement4.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/requirement4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/design/requirement5.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/design/requirement5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/javadoc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/javadoc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-17.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-20.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-21.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-23.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legal/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/legal/jqueryUI.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eJ0qVgMBXtpJJ5cYs1Xlmvr0Ud" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vellichastrxism/Desktop/Object-Oriented-Programming-Text-Based-Dragonborne-Game&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Application" />
+      <module name="Object-Oriented-Programming-Text-Based-Dragonborne-Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0837e8-0f9e-4b05-b5bb-f3423ef4abd6" name="Changes" comment="" />
+      <created>1711607564494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711607564494</updated>
+      <workItem from="1711607565550" duration="623000" />
+      <workItem from="1711608277498" duration="6000" />
+      <workItem from="1711608296221" duration="22000" />
+      <workItem from="1711608320945" duration="7000" />
+      <workItem from="1711608381331" duration="51000" />
+      <workItem from="1711608434830" duration="117000" />
+      <workItem from="1711608554649" duration="21000" />
+      <workItem from="1711608668424" duration="5000" />
+      <workItem from="1711609056136" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
